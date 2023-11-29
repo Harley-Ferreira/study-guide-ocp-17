@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter_13_concurrency/chapter_13_concurrency.iml" filepath="$PROJECT_DIR$/chapter_13_concurrency/chapter_13_concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/study-guide-ocp-17.iml" filepath="$PROJECT_DIR$/study-guide-ocp-17.iml" />
     </modules>
   </component>
