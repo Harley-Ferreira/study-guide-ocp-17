@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chapter_13_concurrency/chapter_13_concurrency.iml" filepath="$PROJECT_DIR$/chapter_13_concurrency/chapter_13_concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-01-bulding-blocks/chapter-01-bulding-blocks.iml" filepath="$PROJECT_DIR$/chapter-01-bulding-blocks/chapter-01-bulding-blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-02-operators/chapter-02-operators.iml" filepath="$PROJECT_DIR$/chapter-02-operators/chapter-02-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-03-making-decisions/chapter-03-making-decisions.iml" filepath="$PROJECT_DIR$/chapter-03-making-decisions/chapter-03-making-decisions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-04-core-apis/chapter-04-core-apis.iml" filepath="$PROJECT_DIR$/chapter-04-core-apis/chapter-04-core-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-05-methods/chapter-05-methods.iml" filepath="$PROJECT_DIR$/chapter-05-methods/chapter-05-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-06-class-desing/chapter-06-class-desing.iml" filepath="$PROJECT_DIR$/chapter-06-class-desing/chapter-06-class-desing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-07-beyond-classes/chapter-07-beyond-classes.iml" filepath="$PROJECT_DIR$/chapter-07-beyond-classes/chapter-07-beyond-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-08-lambdas-functional-interfaces/chapter-08-lambdas-functional-interfaces.iml" filepath="$PROJECT_DIR$/chapter-08-lambdas-functional-interfaces/chapter-08-lambdas-functional-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-09-collections-generics/chapter-09-collections-generics.iml" filepath="$PROJECT_DIR$/chapter-09-collections-generics/chapter-09-collections-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-10-streams/chapter-10-streams.iml" filepath="$PROJECT_DIR$/chapter-10-streams/chapter-10-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-11-exceptions-localization/chapter-11-exceptions-localization.iml" filepath="$PROJECT_DIR$/chapter-11-exceptions-localization/chapter-11-exceptions-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-13-concurrency/chapter-13-concurrency.iml" filepath="$PROJECT_DIR$/chapter-13-concurrency/chapter-13-concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-14-io/chapter-14-io.iml" filepath="$PROJECT_DIR$/chapter-14-io/chapter-14-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-15-jdbc/chapter-15-jdbc.iml" filepath="$PROJECT_DIR$/chapter-15-jdbc/chapter-15-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/study-guide-ocp-17.iml" filepath="$PROJECT_DIR$/study-guide-ocp-17.iml" />
     </modules>
   </component>
